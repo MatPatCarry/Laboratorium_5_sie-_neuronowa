@@ -1,0 +1,14 @@
+{
+    "no_dropout_120_epochs": {
+        "n_hidden": 4,
+        "n_neurons": 64,
+        "learning_rate": 0.01,
+        "dropout": false
+    },
+    "dropout_120_epochs": {
+        "n_hidden": 4,
+        "n_neurons": 40,
+        "learning_rate": 0.01,
+        "dropout": true
+    }
+}

@@ -1,1 +1,1 @@
-# Laboratorium_5_sie-_neuronowa
+# Laboratorium 5 siec neuronowa
